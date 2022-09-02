@@ -3,7 +3,7 @@ package Buoi3;
 import java.util.Scanner;
 
 public class SinhVien {
-    private static Scanner scanner = new Scanner(System.in);
+    private static final Scanner scanner = new Scanner(System.in);
     private String ten;
     private String maSV;
     private float diemToan;
@@ -23,6 +23,8 @@ public class SinhVien {
         this.diemToan = diemToan;
         this.diemLy = diemLy;
         this.diemHoa = diemHoa;
+        tinhDiemTB();
+        xepLoaiSV();
     }
 
     public boolean kiemTraDiemHopLe(float diem) {
@@ -40,7 +42,7 @@ public class SinhVien {
     }
 
     public void xuat() {
-        System.out.println(toString());
+        System.out.printf("%-30s | %-20s | %-10.2f | %-10.2f | %-10.2f | %-10.2f | %-10s \n", ten, maSV, diemToan, diemLy, diemHoa, diemTB, xepLoai);
     }
 
     private void tinhDiemTB() {
@@ -154,16 +156,4 @@ public class SinhVien {
         return xepLoai;
     }
 
-    @Override
-    public String toString() {
-        return "SinhVien{" +
-                "ten='" + ten + '\'' +
-                ", maSV='" + maSV + '\'' +
-                ", diemToan=" + diemToan +
-                ", diemLy=" + diemLy +
-                ", diemHoa=" + diemHoa +
-                ", diemTB=" + diemTB +
-                ", xepLoai='" + xepLoai + '\'' +
-                '}';
-    }
 }
