@@ -27,7 +27,7 @@ public class SinhVien {
         xepLoaiSV();
     }
 
-    public boolean kiemTraDiemHopLe(float diem) {
+    private boolean kiemTraDiemHopLe(float diem) {
         return diem >= 0 && diem <= 10;
     }
 
