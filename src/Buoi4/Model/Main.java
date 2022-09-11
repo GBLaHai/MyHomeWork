@@ -1,4 +1,4 @@
-package Buoi4.Entity;
+package Buoi4.Model;
 
 import java.util.ArrayList;
 import java.util.Scanner;

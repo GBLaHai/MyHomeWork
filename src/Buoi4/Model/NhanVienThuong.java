@@ -1,6 +1,4 @@
-package Buoi4.Entity;
-
-import Buoi4.Entity.NhanVien;
+package Buoi4.Model;
 
 public class NhanVienThuong extends NhanVien {
     private String maTruongPhong = null;

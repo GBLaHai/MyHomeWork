@@ -1,4 +1,4 @@
-package Buoi4.Entity;
+package Buoi4.Model;
 
 public class GiamDoc extends NhanVien{
     private float phanTramCoPhan;

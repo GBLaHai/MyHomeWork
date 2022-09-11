@@ -1,7 +1,4 @@
-package Buoi4.Entity;
-
-import Buoi4.Entity.NhanVien;
-import Buoi4.Entity.NhanVienThuong;
+package Buoi4.Model;
 
 import java.util.ArrayList;
 

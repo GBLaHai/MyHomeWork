@@ -1,6 +1,5 @@
-package Buoi4.Entity;
+package Buoi4.Model;
 
-import Buoi4.Entity.CongTy;
 import Buoi4.Tool.KiemTraDieuKien;
 
 import java.util.Scanner;

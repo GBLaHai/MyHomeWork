@@ -1,4 +1,4 @@
-package Buoi4.Entity;
+package Buoi4.Model;
 
 public class Test {
     public static void main(String[] args) {
