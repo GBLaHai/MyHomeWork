@@ -1,0 +1,147 @@
+body {
+    margin: 0px;
+}
+
+input {
+    padding: 0px;
+    border: 1px solid black;
+}
+
+textarea {
+    padding: 0;
+}
+
+.toolbar {
+    padding: 12px 8px;
+    background-color: #2FA5EB;
+    color: white;
+    text-align: right;
+}
+
+.header__table {
+    width: 100%;
+    border-spacing: 0;
+}
+
+.header__logo {
+    font-size: 50px;
+    font-family: ui-monospace;
+    padding: 20px 60px;
+
+}
+
+.header__logo span:first-child {
+    color: #2FA5EB;
+}
+
+.header__navbar__menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1;
+    margin-top: 40px;
+}
+
+.header__navbar__menu__item {
+    float: left;
+}
+
+.header__navbar__menu__item a {
+    display: block;
+    color: gray;
+    font-size: 18px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.banner {
+    position: relative;
+    width: 100%;
+}
+
+.banner__image {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.banner__content {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    font-size: 32px;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.5);
+    width: 80%;
+    height: 80%;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.banner__content div:first-child {
+    margin-top: 160px;
+}
+
+hr {
+    display: block;
+    border-style: inset;
+    border-width: 1px;
+    background-color: gray;
+    opacity: 0.5;
+}
+
+.container__paragraph {
+    margin: 12px 60px;
+    font-size: 17px;
+    text-align: justify;
+}
+
+.form {
+    float: right;
+    width: 60%;
+}
+
+.form__table {
+    border-collapse: collapse;
+    width: 60%;
+    margin-left: 70px;
+}
+
+.form__table td {
+    text-align: center;
+    padding: 12px 30px;
+}
+
+.form__table input, .form__table select,  .form__table textarea, .form__table button {
+    width: 100%;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    padding-left: 12px;
+    box-sizing: border-box;
+}
+
+.form__table input, .form__table select {
+    height: 40px;
+}
+
+.form__table textarea {
+    height: 100px;
+}
+
+.form__table button {
+    height: 30px;
+    color: white;
+    background-color: #2FA5EB;
+}
+
+
+
+
+
+
+
+
+
+
