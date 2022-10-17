@@ -1,0 +1,12 @@
+
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óûÇœıÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¨«ô
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó«ó¾øÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "iVal".(ÉĞ±œùÿÿÿÿ
+D
+java:S1481")Remove this unused "iVal" local variable.(ÉĞ±œùÿÿÿÿ
+c	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û×¢•
+h	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÎ´şÿÿÿÿ
+c	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™â–õ
+c	java:S100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã‹®Û

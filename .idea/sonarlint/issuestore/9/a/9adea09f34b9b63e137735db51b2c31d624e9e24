@@ -1,0 +1,33 @@
+
+j
+java:S1192"ODefine a constant instead of duplicating this literal " va vi tri la " 6 times.(Í‘ÞÊøÿÿÿÿ
+8
+java:S1643­"Use a StringBuilder instead.(Ê¿¨®ûÿÿÿÿ
+3
+java:S1643µ"Use a StringBuilder instead.(Ý†â±
+{
+java:S1488U"`Immediately return this expression instead of assigning it to the temporary variable "giaTriTB".(ùñþûûÿÿÿÿ
+R
+java:S4973+"<Strings and Boxed types should be compared using "equals()".(íµ§»
+W
+java:S4973/"<Strings and Boxed types should be compared using "equals()".(¡ˆëÈùÿÿÿÿ
+B
+java:S1125"'Remove the unnecessary boolean literal.(ßý¼Æþÿÿÿÿ
+=
+java:S1125"'Remove the unnecessary boolean literal.(ª×ÈÙ
+B
+java:S1125""'Remove the unnecessary boolean literal.(õïýÿÿÿÿ
+=
+java:S1125&"'Remove the unnecessary boolean literal.(öÑË¢
+g
+java:S3457D"Q%n should be used in place of \n to produce the platform-specific line separator.(ñÏè§
+p
+java:S3012Í"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(çêÁ¿
+p
+java:S3012Ý"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(çêÁ¿
+p
+java:S3012÷"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(çêÁ¿
+p
+java:S3012‡"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(çêÁ¿
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

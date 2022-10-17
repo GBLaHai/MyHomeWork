@@ -1,0 +1,68 @@
+
+a
+java:S1192V"FDefine a constant instead of duplicating this literal "Ma So" 7 times.(Ğ–ùùÿÿÿÿ
+z
+java:S1192V"_Define a constant instead of duplicating this literal "%-10s | %-20s | %-10s | %-10s
+" 3 times.(Ğ–ùùÿÿÿÿ
+d
+java:S1192Õ"HDefine a constant instead of duplicating this literal "So Ngay" 4 times.(Ä­çşÿÿÿÿ
+b
+java:S1192V"GDefine a constant instead of duplicating this literal "Ho Ten" 7 times.(Ğ–ùùÿÿÿÿ
+l
+java:S1192}"QDefine a constant instead of duplicating this literal "Nhan vien co ma " 3 times.(ˆÅâùÿÿÿÿÿ
+h
+java:S1192}"MDefine a constant instead of duplicating this literal " da ton tai." 3 times.(ˆÅâùÿÿÿÿÿ
+‹
+java:S1192Õ"oDefine a constant instead of duplicating this literal "%-10s | %-20s | %-10s | %-10s | %-10s | %-10s
+" 4 times.(Ä­çşÿÿÿÿ
+f
+java:S1192å"JDefine a constant instead of duplicating this literal "Thuc Lanh" 3 times.(õô‚…şÿÿÿÿ
+e
+java:S1192Õ"IDefine a constant instead of duplicating this literal "Luong CB" 4 times.(Ä­çşÿÿÿÿ
+b	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™è°s
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™–Áşÿÿÿÿ
+c	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó³öÎ
+W
+java:S1117("<Rename "maSoThue" which hides the field declared at line 14.(‰Ù€Æùÿÿÿÿ
+h	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãµ¯‚ıÿÿÿÿ
+W
+java:S11171"ARename "doanhThuThang" which hides the field declared at line 15.(Ï®î«
+c	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–„œ¿
+l
+java:S34579"Q%n should be used in place of \n to produce the platform-specific line separator.(Æ’ÀÙùÿÿÿÿ
+c	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹œ½Ã
+h	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñØŠÊşÿÿÿÿ
+l
+java:S3457V"Q%n should be used in place of \n to produce the platform-specific line separator.(Ğ–ùùÿÿÿÿ
+c	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÓÊÓ
+g
+java:S3457^"Q%n should be used in place of \n to produce the platform-specific line separator.(·ô¤
+c	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ãÿ¶
+h	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°û¡ºøÿÿÿÿ
+c	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò­ü
+d	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·îÑ§
+i	java:S100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹­¹½ÿÿÿÿÿ
+i	java:S100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑëĞ©øÿÿÿÿ
+i	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÆóÌøÿÿÿÿ
+i	java:S100¿"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğí‚øşÿÿÿÿ
+i	java:S100Æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô®¬ƒÿÿÿÿÿ
+d	java:S100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ì­œ
+i	java:S100Ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ€ßşÿÿÿÿÿ
+m
+java:S3457Õ"Q%n should be used in place of \n to produce the platform-specific line separator.(Ä­çşÿÿÿÿ
+d	java:S100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş¥ßœ
+i	java:S100ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¿ˆÅüÿÿÿÿ
+m
+java:S3457å"Q%n should be used in place of \n to produce the platform-specific line separator.(õô‚…şÿÿÿÿ
+d	java:S100õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÿà±
+m
+java:S3457ö"Q%n should be used in place of \n to produce the platform-specific line separator.(õô‚…şÿÿÿÿ
+d	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÄïÿ
+d	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÁ÷
+i	java:S100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£«Èâÿÿÿÿÿ
+m
+java:S3457“"Q%n should be used in place of \n to produce the platform-specific line separator.(õô‚…şÿÿÿÿ
+d	java:S100£"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï·» 
+h
+java:S3457¤"Q%n should be used in place of \n to produce the platform-specific line separator.(†ÒíŞ
+d	java:S100¬"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚—±™

@@ -12,6 +12,7 @@ public class Bai13 {
         double giaTriTB = tinhGiaTriTB(mangXuLy);
         System.out.println("Gia tri trung binh la: " + giaTriTB);
 
+
         // cau b
         int viTriPTLonNhat = viTriPTLonNhat(mangXuLy);
         System.out.println("Phan tu lon nhat co: gia tri la " + mangXuLy[viTriPTLonNhat] + " va vi tri la " + viTriPTLonNhat);

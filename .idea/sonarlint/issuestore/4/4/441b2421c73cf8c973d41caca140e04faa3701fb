@@ -1,0 +1,6 @@
+
+s	java:S1351"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+b
+java:S3973E"GUse indentation to denote the code conditionally executed by this "if".(Ášï£øÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Çµí‘
